@@ -1,0 +1,12 @@
+{
+    "name": "Vicky/mdlproduk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vicky Prahastra",
+            "email": "vickyprahastra@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
